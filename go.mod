@@ -1,4 +1,4 @@
-module github.com/olivere/ozanturksever/v7/
+module github.com/ozanturksever/elastic/
 
 go 1.12
 

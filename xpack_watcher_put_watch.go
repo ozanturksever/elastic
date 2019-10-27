@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/ozanturksever/v7/uritemplates"
+	"github.com/ozanturksever/elastic/uritemplates"
 )
 
 // XPackWatcherPutWatchService either registers a new watch in Watcher

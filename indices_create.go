@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/ozanturksever/v7/uritemplates"
+	"github.com/ozanturksever/elastic/uritemplates"
 )
 
 // IndicesCreateService creates a new index.

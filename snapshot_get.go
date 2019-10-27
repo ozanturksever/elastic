@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/olivere/ozanturksever/v7/uritemplates"
+	"github.com/ozanturksever/elastic/uritemplates"
 )
 
 // SnapshotGetService lists the snapshots on a repository

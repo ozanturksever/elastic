@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/olivere/ozanturksever/v7/"
+	"github.com/ozanturksever/elastic"
 )
 
 func main() {

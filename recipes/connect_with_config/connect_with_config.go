@@ -17,8 +17,8 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/olivere/ozanturksever/v7/"
-	"github.com/olivere/ozanturksever/v7/config"
+	"github.com/ozanturksever/elastic"
+	"github.com/ozanturksever/elastic/config"
 )
 
 func main() {

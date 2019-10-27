@@ -23,8 +23,8 @@ import (
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/olivere/env"
 
-	"github.com/olivere/ozanturksever/v7/"
-	aws "github.com/olivere/ozanturksever/v7/aws/v4"
+	"github.com/ozanturksever/elastic"
+	aws "github.com/ozanturksever/elastic/aws/v4"
 )
 
 const (

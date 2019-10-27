@@ -18,7 +18,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/olivere/ozanturksever/v7/"
+	"github.com/ozanturksever/elastic"
 )
 
 const (

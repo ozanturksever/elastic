@@ -14,10 +14,10 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws/credentials"
 
-	"github.com/olivere/ozanturksever/v7/"
+	"github.com/ozanturksever/elastic"
 )
 
-func TestSigningClient(t *testing.T) {
+func TestSigningClient(t *testing.`T) {
 	var req *http.Request
 	ts := httptest.NewTLSServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		switch r.URL.Path {

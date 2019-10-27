@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/olivere/ozanturksever/v7/uritemplates"
+	"github.com/ozanturksever/elastic/uritemplates"
 )
 
 // SearchShardsService returns the indices and shards that a search request would be executed against.

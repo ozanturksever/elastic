@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/olivere/ozanturksever/v7/uritemplates"
+	"github.com/ozanturksever/elastic/uritemplates"
 )
 
 // NodesInfoService allows to retrieve one or more or all of the
