@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/olivere/ozanturksever/v7/uritemplates"
 )
 
 // CatIndicesService returns the list of indices plus some additional

@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/olivere/ozanturksever/v7/uritemplates"
 )
 
 // IngestPutPipelineService adds pipelines and updates existing pipelines in

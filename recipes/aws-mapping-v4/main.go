@@ -24,7 +24,7 @@ import (
 	"github.com/olivere/env"
 
 	"github.com/olivere/elastic/v7"
-	aws "github.com/olivere/elastic/v7/aws/v4"
+	aws "github.com/olivere/ozanturksever/v7/aws/v4"
 )
 
 const (
