@@ -32,7 +32,7 @@ import (
 	jaegerexpvar "github.com/uber/jaeger-lib/metrics/expvar"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/olivere/elastic/v7"
+	"github.com/olivere/ozanturksever/v7/"
 	"github.com/olivere/ozanturksever/v7/trace/opentracing"
 )
 
